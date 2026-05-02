@@ -81,6 +81,8 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ---
 
-
+## 👤 Author
+- **Qazim-07**  
+- GitHub: [Qazim-07](https://github.com/Qazim-07)
 
 ---
