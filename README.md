@@ -1,7 +1,3 @@
-**Here’s a ready-to-use README draft for your GitHub repository “CNN-for-Image-Classification.” It explains the project clearly, provides installation steps, usage instructions, and highlights the workflow. You can copy this into your repo and adjust details as needed.**
-
----
-
 # CNN for Image Classification
 
 ## 📌 Overview
